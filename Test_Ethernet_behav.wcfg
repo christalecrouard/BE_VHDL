@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Test_Ethernet_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Test_Ethernet" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="21000000001fs"></ZoomEndTime>
+      <Cursor1Time time="8000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="132"></NameColumnWidth>
+      <ValueColumnWidth column_width="166"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="22" />
+   <wvobject type="array" fp_name="/Test_Ethernet/RDATAI">
+      <obj_property name="ElementShortName">RDATAI[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RDATAI[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/Test_Ethernet/RDATAO">
+      <obj_property name="ElementShortName">RDATAO[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RDATAO[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/RESETN">
+      <obj_property name="ElementShortName">RESETN</obj_property>
+      <obj_property name="ObjectShortName">RESETN</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/CLK">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/RENABP">
+      <obj_property name="ElementShortName">RENABP</obj_property>
+      <obj_property name="ObjectShortName">RENABP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/RBYTEP">
+      <obj_property name="ElementShortName">RBYTEP</obj_property>
+      <obj_property name="ObjectShortName">RBYTEP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/RCLEANP">
+      <obj_property name="ElementShortName">RCLEANP</obj_property>
+      <obj_property name="ObjectShortName">RCLEANP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/RCVNGP">
+      <obj_property name="ElementShortName">RCVNGP</obj_property>
+      <obj_property name="ObjectShortName">RCVNGP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/RDONEP">
+      <obj_property name="ElementShortName">RDONEP</obj_property>
+      <obj_property name="ObjectShortName">RDONEP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/RSMATIP">
+      <obj_property name="ElementShortName">RSMATIP</obj_property>
+      <obj_property name="ObjectShortName">RSMATIP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/RSTARTP">
+      <obj_property name="ElementShortName">RSTARTP</obj_property>
+      <obj_property name="ObjectShortName">RSTARTP</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/Test_Ethernet/TDATAI">
+      <obj_property name="ElementShortName">TDATAI[7:0]</obj_property>
+      <obj_property name="ObjectShortName">TDATAI[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/Test_Ethernet/TDATAO">
+      <obj_property name="ElementShortName">TDATAO[7:0]</obj_property>
+      <obj_property name="ObjectShortName">TDATAO[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/TAVAILP">
+      <obj_property name="ElementShortName">TAVAILP</obj_property>
+      <obj_property name="ObjectShortName">TAVAILP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/TRNSMTP">
+      <obj_property name="ElementShortName">TRNSMTP</obj_property>
+      <obj_property name="ObjectShortName">TRNSMTP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/TDONEP">
+      <obj_property name="ElementShortName">TDONEP</obj_property>
+      <obj_property name="ObjectShortName">TDONEP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/TFINISHP">
+      <obj_property name="ElementShortName">TFINISHP</obj_property>
+      <obj_property name="ObjectShortName">TFINISHP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/TREADDP">
+      <obj_property name="ElementShortName">TREADDP</obj_property>
+      <obj_property name="ObjectShortName">TREADDP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/TABORTP">
+      <obj_property name="ElementShortName">TABORTP</obj_property>
+      <obj_property name="ObjectShortName">TABORTP</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/TSTARTP">
+      <obj_property name="ElementShortName">TSTARTP</obj_property>
+      <obj_property name="ObjectShortName">TSTARTP</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/Test_Ethernet/Clock_period">
+      <obj_property name="ElementShortName">Clock_period</obj_property>
+      <obj_property name="ObjectShortName">Clock_period</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/Test_Ethernet/TSOCOLP">
+      <obj_property name="ElementShortName">TSOCOLP</obj_property>
+      <obj_property name="ObjectShortName">TSOCOLP</obj_property>
+   </wvobject>
+</wave_config>
