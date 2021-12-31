@@ -1,5 +1,6 @@
 # BE VHDL | Controleur Ethernet
 
+Projet réalisé par Crhistale Crouard et Emeline Delhay
 Reception, transmission et gestion de collisions par un contrôleur Ethernet programmé en VHDL.
 
 
