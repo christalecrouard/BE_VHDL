@@ -2,7 +2,7 @@
 
 Projet réalisé par Christale Crouard et Emeline Delhay
 
-Reception, transmission et gestion de collisions par un contrôleur Ethernet programmé en VHDL.
+Réception, transmission et gestion de collision par un contrôleur Ethernet programmé en VHDL.
 
 
 ## Installation
