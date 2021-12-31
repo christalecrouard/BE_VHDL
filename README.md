@@ -1,4 +1,4 @@
-# BE VHDL | Controleur Ethernet
+# BE VHDL | Contrôleur Ethernet
 
 Projet réalisé par Christale Crouard et Emeline Delhay
 
