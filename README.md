@@ -55,7 +55,7 @@ Synthèse non réalisée avec l'adresse MAC sur 48 bits ( NOADDRI(47 downto 0) )
 
 ![Synthèse du circuit](https://github.com/christalecrouard/BE_VHDL/blob/main/images/synth%C3%A8se.png)
 
-## Fréquence maximale
+### Fréquence maximale
 Chemin critique : 2.155 ns (Fréquence maximale : 464 MHz)
 
 ![Fréquence max du circuit](https://github.com/christalecrouard/BE_VHDL/blob/main/images/fr%C3%A9quence.png)
